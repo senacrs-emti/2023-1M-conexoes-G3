@@ -3,3 +3,13 @@
     --branco: #fff;
     --preto: #000;
 }
+
+header{
+    background-color: var(--roxo);
+    font-family: Arial;
+    color: var(--branco);
+}
+
+header h3,h4{
+    font-size: 18px
+}
