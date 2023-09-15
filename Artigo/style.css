@@ -3,3 +3,14 @@
     --branco: #fff;
     --preto: #000;
 }
+
+.paragrafos{
+    width: 75%;
+    position: center;
+    background-color: red;
+    
+}
+
+.paragrafos h2{
+ margin-left: 15%;
+}
