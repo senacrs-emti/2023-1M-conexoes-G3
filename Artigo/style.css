@@ -3,3 +3,27 @@
     --branco: #fff;
     --preto: #000;
 }
+]*{
+    margin: 0;
+    padding: 0;
+}
+div #A{
+    float: left;
+
+}
+div #B{
+    margin-left: 60px;
+    color: var(--branco);
+}
+header {
+    height: 70px;
+    width: 100%;
+    display: block;
+    float: left;
+    background-color: #31363A;
+ }
+button {
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+  }
