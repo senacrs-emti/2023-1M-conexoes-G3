@@ -2,4 +2,25 @@
     --roxo: #7030A0; 
     --branco: #fff;
     --preto: #000;
+    --cinza-claro: #52575B;
+    --cinza-escuro: #31363A;
+}
+
+body {
+    background-color: var(--cinza-claro);
+}
+
+section {
+    display: block;
+    margin-top: 15px;
+    margin-left: 227.5px;
+    background-color: var(--branco);
+    box-shadow: 0px 0px 6px #000000a2;
+    width: 794px;
+    height: 1822px;
+}
+
+#pag1 {
+    background-color: var(--roxo);
+    margin-top: 59px;
 }
