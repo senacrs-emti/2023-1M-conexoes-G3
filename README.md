@@ -23,3 +23,12 @@ Dividimos da seguinte forma:
 - Tori Piccoli - Formatação dos Textos
 
 (*: Responsável pelo Arquivo Base)
+
+> 22/09
+
+Hoje durante o horário de aula só foi confeccionado a apresentação e diário de bordo no README, porém durante a tarde, realizamos o merge da estrutura das páginas, compostas pela:
+
+- Capa (Ana Castro de Araújo)
+- Páginas (Liam Kramm)
+- Textos (Tori Piccoli)
+  
