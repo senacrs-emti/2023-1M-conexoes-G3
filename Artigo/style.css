@@ -7,80 +7,68 @@
     margin: 0;
     padding: 0;
 }
-
-div #A{
+header{
+    width: 100%;
+    height: 300px;
+    display: block;
     float: left;
+    background-color: #252525;
+}
+div #A{
+    padding-left: 60px;
     width: 100%;
     height: 50px;
     display: block;
+    color: var(--preto);
 }
 div #B{
-    margin-left: 60px;
+    padding-left: 60px;
     color: var(--branco);
 }
 div #C{
-    margin-left: 60px;
+    padding-left: 60px;
     display: block;
 }
 div #D{
-    margin-left: 60px;
+    padding-left: 60px;
     width: 25px;
     height: 25px;
     display: block;
     
 }
-div #Caixa1inútil {
+div #Caixa1inutil {
     color: #151515;
-    margin-left: 60px;
-    width: 10px;
-    height: 15px;
     display: block;
 }
-div #Caixa2inútil {
+div #Caixa2inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa3inútil {
+div #Caixa3inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa4inútil {
+div #Caixa4inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa5inútil {
+div #Caixa5inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa6inútil {
+div #Caixa6inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa7inútil {
+div #Caixa7inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa8inútil {
+div #Caixa8inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
-div #Caixa9inútil {
+div #Caixa9inutil {
     color: #151515;
-    width: 10px;
-    height: 15px;
-    margin-left: 60px;
+    display: block;
 }
