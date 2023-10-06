@@ -2,53 +2,91 @@
     --roxo: #7030A0; 
     --branco: #fff;
     --preto: #000;
-    --cinza-claro: #52575B;
-    --cinza-escuro: #31363A;
 }
-
-body {
-    background-color: var(--cinza-claro);
+*{
+    margin: 0;
+    padding: 0;
 }
-
-section {
-    display: block;
-    margin-top: 15px;
-    margin-left: 227.5px;
-    background-color: var(--branco);
-    box-shadow: 0px 0px 6px #000000a2;
-    width: 794px;
-    height: 1822px;
-}
-
-#pag1 {
-    background-color: var(--roxo);
-    margin-top: 59px;
-}
-
 header{
-    background-color: var(--roxo);
-    font-family: Arial;
-    color: var(--branco);
+    width: 100%;
+    height: 300px;
+    display: block;
+    float: left;
+    background-color: #252525;
 }
-
-header h3,h4{
-    font-size: 18px
-
-}
-
-main article h2{
-    color: var(--roxo);
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-main article section p{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    line-height: 20px;
-    text-align: justify;
+div #A{
+    padding-left: 60px;
+    width: 100%;
+    height: 50px;
+    display: block;
     color: var(--preto);
 }
+div #B{
+    padding-left: 60px;
+    color: var(--branco);
+}
+div #C{
+    padding-left: 60px;
+    display: block;
+}
+div #D{
+    padding-left: 60px;
+    width: 25px;
+    height: 25px;
+    display: block;
+    
+}
+div #Caixa1inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa2inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa3inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa4inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa5inutil {
+    color: #151515;
+    display: block;
+}
+img  #Caixa5inutil{
+    width: 60px;
+    height: 60px;
+}
 
-main article section{
-    padding: 5%;
+#caixared{
+    width: 80px;
+    height: 80px;
+}
+
+div #Caixa6inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa7inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa8inutil {
+    color: #151515;
+    display: block;
+}
+div #Caixa9inutil {
+    color: #151515;
+    display: block;
+}
+button {
+    width: 30px; ;
+    height: 30px; ;
+}
+img {
+    width: 30px; ;
+    height: 30px; ;
 }
