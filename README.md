@@ -34,4 +34,4 @@ Hoje durante o horário de aula só foi confeccionado a apresentação e diário
   
 > 29/09 e 06/10
 
-Durante esses dias, Leonardo Kalil realizou diversos comits sobre seu header a barra de ferramentas do leitor do pdf. Solicitou ajuda para colegas e professores. Mudou de planos sobre a questão dos botões funcionais e agora permanece posicionando os icones.
+Durante esses dias, Leonardo Kalil realizou diversos comits sobre seu header, a barra de ferramentas do leitor do pdf. Solicitou ajuda para colegas e professores. Mudou de planos sobre a questão dos botões funcionais e agora permanece posicionando os icones.
